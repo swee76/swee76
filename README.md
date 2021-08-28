@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Kithma A.P.O<br>
+IT20228026<br>
+swee76
 <!--
 **swee76/swee76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
