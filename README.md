@@ -2,8 +2,8 @@
  
 ### I'm a Student and Developer!!
  
-- ? I’m currently learning React ?
-- ? 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning JavaScript 😎
+- 🥅 2021 Goals: Contribute more to Open Source projects
  
 ### Educational Purpose
 - IT20228026
