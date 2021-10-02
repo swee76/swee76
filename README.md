@@ -42,7 +42,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
    
   <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#85](https://github.com/lonewol7f/EnLearn/pull/85) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
+1. 💪 Opened PR [#101](https://github.com/lonewol7f/EnLearn/pull/101) in [lonewol7f/EnLearn](https://github.com/lonewol7f/EnLearn)
   <!--END_SECTION:activity-->
  
 </details>
