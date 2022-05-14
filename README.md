@@ -9,6 +9,7 @@
  
 - 🌱 I’m currently learning JavaScript 😎
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- Reach me via oshinikithma1213@gmail.com
  
 ### Educational Purpose
 - IT20228026
