@@ -1,4 +1,9 @@
 ### Hi there, I'm Osini Kithma <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+<h3 align="center">A Frontend Developer From Sri Lanka!</h3>
+<p align="center">
+ <img src="https://github.com/swee76/swee76/blob/df9bbb6d6a18822c2479ffee40519c9127186788/standard.gif"/>
+</p>
  
 ### I'm a Student and Developer!!
  
