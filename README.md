@@ -1,4 +1,4 @@
-###<h2 align="center"> Hi there, I'm Osini Kithma </h2> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h2 align="center"> Hi there, I'm Osini Kithma </h2> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <h3 align="center">A Frontend Developer From Sri Lanka!</h3>
 <p align="center">
@@ -31,7 +31,7 @@
  
 <!-- ![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=Angular&logoColor=red) ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![Java Badge](https://img.shields.io/badge/-Java-gold?style=for-the-badge&labelColor=black&logo=java&logoColor=gold) ![Spring Badge](https://img.shields.io/badge/-Spring_Boot-green?style=for-the-badge&labelColor=black&logo=springboot&logoColor=green) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white) -->
  
-![Java Badge](https://img.shields.io/badge/-Java-gold?style=for-the-badge&labelColor=black&logo=java&logoColor=gold) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
+![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&labelColor=black&logo=react&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-gold?style=for-the-badge&labelColor=black&logo=java&logoColor=gold) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
  
  
 #### Profile Visits
