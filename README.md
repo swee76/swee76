@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://user-images.githubusercontent.com/github-header-image,png" width="28px" alt="hi"></h2> 
+<h2 align="center"><img src="https://github.com/swee76/swee76/blob/main/github-header-image.png" width="28px" alt="hi"></h2> 
 
 <h3 align="center">A Frontend Developer From Sri Lanka!</h3>
 <p align="center">
