@@ -35,6 +35,9 @@
 ![React Badge](https://img.shields.io/badge/-React-informational?style=for-the-badge&labelColor=black&logo=react&logoColor=white) ![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&labelColor=white&logo=tailwindcss&logoColor=blue) ![Headlessui Badge](https://img.shields.io/badge/-Headlessui-lightgrey?style=for-the-badge&labelColor=black&logo=headlessui&logoColor=blue) ![mui Badge](https://img.shields.io/badge/-mui-9cf?style=for-the-badge&labelColor=white&logo=mui&logoColor=blue) ![Java Badge](https://img.shields.io/badge/-Java-gold?style=for-the-badge&labelColor=black&logo=java&logoColor=gold) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
  
  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swee76&theme=darcula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00)](https://git.io/streak-stats)
+ 
+ 
 #### Profile Visits
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=swee76.swee76)
