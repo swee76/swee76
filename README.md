@@ -18,7 +18,7 @@
  
 ---
  
-  <img align="center" alt="swee76's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=swee76&show_icons=true&hide_border=true&theme=gruvbox"/>&nbsp;<img align="center" alt="swee76's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[swee76]&layout=compact&theme=gruvbox&hide_border=true"/>
+  <img align="center" alt="swee76's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=swee76&show_icons=true&hide_border=true&theme=gruvbox"/>&nbsp;<img align="center" alt="swee76's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swee76&layout=compact&theme=gruvbox&hide_border=true"/>
  
 <br>
  
