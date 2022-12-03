@@ -45,9 +45,9 @@
     <td class="tg-0pky">
 <h3>&nbsp;Languages and Tools:</h3><hr/>
      
-[![My Skills](https://skillicons.dev/icons?i=xxx,react,nextjs,nodejs,express,redux,mongodb,tailwind,python,figma,html,css,js,git,github&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx,react,nextjs,nodejs,express,redux,mongodb,tailwind,python,figma,html,css,js,git,github&perline=10)](https://skillicons.dev)
 
-</td>
+    </td>
   </tr>
 </thead>
 </table>
