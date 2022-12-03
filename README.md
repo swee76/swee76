@@ -47,7 +47,6 @@
      
 [![My Skills](https://skillicons.dev/icons?i=xxx,react,nextjs,nodejs,express,redux,mongodb,idea,webstorm,,xxx,xxx,tailwind,python,figma,html,css,js,git,github&perline=12)](https://skillicons.dev)
 
-    </td>
   </tr>
 </thead>
 </table>
