@@ -22,7 +22,8 @@
 ![Swee76's GitHub stats](https://github-readme-stats.vercel.app/api?username=swee76&show_icons=true&hide_border=true&theme=gruvbox&exclude_repo=github-readme-stats,swee76.github.io)
   &nbsp;
   <!-- <img align="center" alt="swee76's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swee76&layout=compact&theme=gruvbox&hide_border=true"/> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swee76&layout=compact&theme=gruvbox&exclude_repo=github-readme-stats,swee76.github.io)](https://github.com/anuraghazra/github-readme-stats)
+  ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swee76&show_icons=true&theme=dark&locale=en&layout=compact" alt="Swee76" />
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swee76&layout=compact&theme=gruvbox&exclude_repo=github-readme-stats,swee76.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
  
 <br>
  
