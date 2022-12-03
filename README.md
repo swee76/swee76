@@ -39,6 +39,12 @@
  
 <!-- ![React Badge](https://img.shields.io/badge/-React-informational?style=for-the-badge&labelColor=black&logo=react&logoColor=white) ![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&labelColor=white&logo=tailwindcss&logoColor=blue) ![Headlessui Badge](https://img.shields.io/badge/-Headlessui-lightgrey?style=for-the-badge&labelColor=black&logo=headlessui&logoColor=blue) ![mui Badge](https://img.shields.io/badge/-mui-9cf?style=for-the-badge&labelColor=white&logo=mui&logoColor=blue) ![Java Badge](https://img.shields.io/badge/-Java-gold?style=for-the-badge&labelColor=black&logo=java&logoColor=gold) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white) -->
 
+<table>     
+<thead>
+  <tr>
+    <td class="tg-0pky">
+<h3>&nbsp;Languages and Tools:</h3><hr/>
+     
 [![My Skills](https://skillicons.dev/icons?i=xxx,react,nextjs,nodejs,express,redux,mobx,mongodb,tailwind,python,figma,html,css,js,git,github&perline=12)](https://skillicons.dev)
 
 </td>
@@ -69,7 +75,7 @@
     <td class="tg-0pky">
       
       
-![](https://github-readme-stats.vercel.app/api?username=Flashminat0&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=swee76&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)
       
       
       
@@ -77,7 +83,7 @@
     <td class="tg-0pky">
 
       
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flashminat0&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&currStreakNum=A643FF&fire=FFC91D&sideNums=6711B4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swee76&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&currStreakNum=A643FF&fire=FFC91D&sideNums=6711B4)](https://git.io/streak-stats)
       
       
       
