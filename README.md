@@ -7,14 +7,9 @@
  
 ### I'm a Student and Developer!!
  
-- 🌱 I’m currently learning JavaScript 😎
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently working as a Software Engineer at mintpay(Pvt) Ltd Sri lanka 😎
+- 🥅 2025 Goals: Learn c# and do c# freelance projects
 - Reach me via oshinikithma1213@gmail.com
- 
-### Educational Purpose
-- IT20228026
-- Kithma A.P.O
-- swee76
  
 ---
  
